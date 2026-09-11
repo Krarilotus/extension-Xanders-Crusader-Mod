@@ -15,8 +15,3 @@ meta:
 tags:
 - modpack
 - ai
-capabilities:
-  files: false
-  code: false
-  configuration: true
-  options: false
